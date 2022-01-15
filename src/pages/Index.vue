@@ -13,7 +13,7 @@
 				</div>
 
 				<a
-					class="bg-background-secondary button py-2 px-3 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
+					class="bg-background-secondary button py-2 px-3 rounded-lg text-copy-primary text-lg hover:text-gray-500"
 					href=""
 					onclick="Calendly.initPopupWidget({url: 'https://calendly.com/vaibhavrajsingh'});return false;"
 					>Lets talk!</a
@@ -21,7 +21,7 @@
 			</div>
 			<g-image
 				width="20px"
-                height="20px"
+				height="20px"
 				src="/developer.svg"
 				alt="hero"
 				class="mx-auto sm:mx-0"
@@ -30,7 +30,7 @@
 
 		<g-image
 			width="20px"
-            height="20px"
+			height="20px"
 			class="mx-auto"
 			alt="arrow towards projects"
 			src="/arrow1.svg"
@@ -39,7 +39,7 @@
 		<div class="projects container-inner mx-auto text-xl py-24 relative">
 			<g-image
 				width="20px"
-                height="20px"
+				height="20px"
 				src="/projects.svg"
 				id="projects"
 				alt="projects header"
@@ -59,7 +59,7 @@
 				<ProjectCard
 					projectName="Web Quark"
 					imgUrl="/mern.svg"
-					liveLink="https://web-quark.netlify.app/"
+					liveLink="https://quark.vaibhavraj.dev/"
 					codeLink="https://github.com/vaibhavrajsingh2001/web-quark"
 				/>
 				<ProjectCard
@@ -69,10 +69,10 @@
 					codeLink="https://github.com/vaibhavrajsingh2001/zemotacqy"
 				/>
 				<ProjectCard
-					projectName="Reactive Library"
-					imgUrl="/react.svg"
-					liveLink="https://reactivelibrary.netlify.app/"
-					codeLink="https://github.com/vaibhavrajsingh2001/reactive-library"
+					projectName="WASM Tools"
+					imgUrl="/WASM-Tools.svg"
+					liveLink="https://wasm.vaibhavraj.dev/"
+					codeLink="https://github.com/vaibhavrajsingh2001/wasm-tools"
 				/>
 				<ProjectCard
 					projectName="Object Detector"
@@ -83,7 +83,7 @@
 				<ProjectCard
 					projectName="Arcade Game"
 					imgUrl="/arcade.svg"
-					liveLink="https://vrs-arcade.netlify.app/"
+					liveLink="https://arcade.vaibhavraj.dev/"
 					codeLink="https://github.com/vaibhavrajsingh2001/vrs-arcade"
 				/>
 				<ProjectCard
@@ -97,7 +97,7 @@
 
 		<g-image
 			width="20px"
-            height="20px"
+			height="20px"
 			class="mx-auto"
 			alt="arrow towards bio"
 			src="/arrow2.svg"
@@ -109,10 +109,10 @@
 			>
 				<g-image
 					width="20px"
-                    height="20px"
+					height="20px"
 					class="my-16"
 					id="about"
-                    alt="Who Am I?"
+					alt="Who Am I?"
 					src="/whoami.svg"
 				/>
 
@@ -122,7 +122,7 @@
 					<div>
 						<g-image
 							width="20px"
-                            height="20px"
+							height="20px"
 							src="/avatar.png"
 							alt="avatar"
 							class="w-64 h-64 mb-8 lg:mb-0"
@@ -132,7 +132,7 @@
 						<p class="m-8">
 							By profession, I'm a full stack developer (read as
 							"gets paid to google perfectly").
-							<a href="/vaibhav_resume.pdf">Download resume</a>
+							<a href="/vaibhav_raj_singh_resume.pdf">Download resume</a>
 						</p>
 
 						<p class="m-8">
@@ -142,10 +142,8 @@
 
 						<p class="m-8">
 							At present I'm working at
-							<a href="https://sendpost.io/">SendPost</a> as a
-							Management Trainee. My role involves working in a
-							full stack capacity and building productive feature
-							sets.
+							<a href="https://deepsource.io/">DeepSource</a> as a
+							Software Engineer. You can find me traversing our frontend codebase (codename bifrost).
 						</p>
 					</div>
 				</div>

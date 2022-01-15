@@ -19,7 +19,7 @@
 				<div class="w-0 flex-1 flex border-r border-gray-200">
 					<a
 						:href="liveLink"
-						class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-lg leading-5 font-medium border border-transparent rounded-bl-lg text-indigo-300 hover:text-gray-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 focus:z-10 transition ease-in-out duration-150"
+						class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-lg leading-5 font-medium border border-transparent rounded-bl-lg text-copy-primary hover:text-gray-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 focus:z-10 transition ease-in-out duration-150"
 					>
 						<svg
 							class="w-6 h-6"
@@ -41,7 +41,7 @@
 				<div class="-ml-px w-0 flex-1 flex">
 					<a
 						:href="codeLink"
-						class="relative w-0 flex-1 inline-flex items-center justify-center py-4 text-lg leading-5 font-medium border border-transparent rounded-br-lg text-indigo-300 hover:text-gray-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 focus:z-10 transition ease-in-out duration-150"
+						class="relative w-0 flex-1 inline-flex items-center justify-center py-4 text-lg leading-5 font-medium border border-transparent rounded-br-lg text-copy-primary hover:text-gray-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 focus:z-10 transition ease-in-out duration-150"
 					>
 						<svg
 							class="w-6 h-6"

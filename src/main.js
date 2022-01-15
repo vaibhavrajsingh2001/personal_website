@@ -17,12 +17,12 @@ export default function(Vue, { router, head, isClient }) {
     head.meta.push({
         name: 'keywords',
         content:
-            'Vaibhav Raj Singh,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS',
+            'Vaibhav Raj Singh, Portfolio, Gridsome, Vue, Tailwind, Tailwind CSS, JavaScript, HTML, CSS, Vue.js, VueJS, React',
     });
 
     head.meta.push({
         name: 'description',
-        content: 'Vaibhav Raj SIngh',
+        content: 'Vaibhav Raj Singh',
     });
 
     head.meta.push({

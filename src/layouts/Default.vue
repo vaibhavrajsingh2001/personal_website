@@ -95,7 +95,7 @@
 					</li>
 					<li>
 						<a
-							href="/vaibhav_resume.pdf"
+							href="/vaibhav_raj_singh_resume.pdf"
 							class="text-copy-primary hover:text-gray-600 cursor-pointer"
 							data-cypress="resume"
 							>Resume</a
@@ -136,7 +136,7 @@
 					<li>
 						<a
 							aria-label="mail icon"
-							href="mailto:vaibhavrajsingh2001@gmail.com"
+							href="mailto:mail@vaibhavraj.dev"
 							class="text-white hover:text-gray-400"
 						>
 							<svg
@@ -222,8 +222,9 @@
 					<li>
 						<a
 							aria-label="linkedin icon"
-							href="www.linkedin.com/in/vaibhavrajsingh2001"
+							href="https://www.linkedin.com/in/vaibhavrajsingh2001"
 							target="_blank"
+							rel="noreferrer"
 							class="text-white hover:text-gray-400"
 							><svg
 								width="20"
