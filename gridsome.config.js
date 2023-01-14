@@ -5,18 +5,12 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-    siteName: 'Vaibhav Raj SIngh',
+    siteName: 'Vaibhav Raj Singh',
     siteDescription: 'Personal site of Vaibhav Raj Singh',
     siteUrl: 'https://www.vaibhavraj.dev/',
     plugins: [
         {
             use: 'gridsome-plugin-tailwindcss',
-        },
-        {
-            use: 'gridsome-plugin-simple-analytics',
-            options: {
-                domain: 'simple.vaibhavraj.dev',
-            },
         },
         {
             use: '@gridsome/source-filesystem',

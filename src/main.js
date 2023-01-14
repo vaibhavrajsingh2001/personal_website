@@ -34,4 +34,14 @@ export default function(Vue, { router, head, isClient }) {
         rel: 'stylesheet',
         href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700',
     });
+
+    // Add an external JavaScript before the closing </body> tag
+    head.script.push({
+        src: 'https://static.cloudflareinsights.com/beacon.min.js',
+        defer: true,
+        'data-cf-beacon': JSON.stringify({
+            token: '45334ac7c5864f248239971eac668080',
+        }),
+        body: true,
+    });
 }
