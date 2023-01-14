@@ -4,7 +4,7 @@
 import DefaultLayout from '~/layouts/Default.vue';
 import VueScrollTo from 'vue-scrollto';
 
-export default function(Vue, { router, head, isClient }) {
+export default function(Vue, { head }) {
     // Set default layout as a global component
     Vue.component('Layout', DefaultLayout);
 
