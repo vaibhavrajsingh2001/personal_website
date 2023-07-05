@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/vaibhav_raj_singh_resume.pdf /resume 301
+/resume /vaibhav_raj_singh_resume.pdf 301
