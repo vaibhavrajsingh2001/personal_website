@@ -136,14 +136,14 @@
 						</p>
 
 						<p class="m-8">
-							By passion, I'm an MCU fanatic, Ukulele aficionado,
-							JavaScript enthusiast and always hungry for trivia.
+							By passion, I'm enthusiastic about MCU, Ukuleles,
+							JavaScript, and always hungry for trivia.
 						</p>
 
 						<p class="m-8">
 							At present I'm working at
-							<a href="https://deepsource.io/">DeepSource</a> as a
-							Software Engineer. You can find me traversing our frontend codebase (codename bifrost).
+							<a href="https://konghq.com/">Kong</a> as a
+							Software Engineer on the Core UI team.
 						</p>
 					</div>
 				</div>
